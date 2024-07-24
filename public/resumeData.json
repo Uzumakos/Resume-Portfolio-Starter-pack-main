@@ -1,0 +1,126 @@
+{
+  "main": {
+    "name": "Amedee Erns Baptiste",
+    "occupation": "CEO of A.E.B Services",
+    "description": "I eat, sleep and breathe Javascript",
+    "image": "erns_aeb.png",
+    "bio": "Hi there! I am Amédée Erns Baptiste! I'm a skilled web developer with 4 years of experience specializing in Next.js, React, Tailwind CSS, TypeScript, and WordPress. Passionate about AI and technology, I create innovative solutions tailored to my community's needs. In my free time, I enjoy manga, books and music.",
+    "contactmessage": "Get in touch with me!",
+    "email": "erns@amedeebaptiste.com",
+    "phone": "+509 37054727",
+    "address": {
+      "street": "123 Dev Lane",
+      "city": "Port-au-Prince",
+      "state": "Devosphere",
+      "zip": "W3B D3V"
+    },
+    "website": "https://www.amedeebaptiste.com",
+    "resumedownload": "http://www.tchekem.store",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/dantei",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/amedee-erns-baptiste/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/amedeee.baptiste/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Uzumakos",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Universite de Port-au-Prince - Haiti",
+        "degree": "Bachelor's Degree, Economics",
+        "graduated": "June 2012",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "A.E.B Services",
+        "title": "Founder and CEO",
+        "years": "July 2021 - Present",
+        "description": "Serving our community and building joyful projects"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "NexJs",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "35%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Lekol Alèz (Wordpress)",
+        "category": "",
+        "image": "lekol alez.png",
+        "url": "https://www.lekolalez."
+      },
+      {
+        "title": "Redakto (Wordpress)",
+        "category": "",
+        "image": "Redakto logo.png",
+        "url": "https://www.redakto.online/"
+      },
+      {
+        "title": "AEB Life (Nextjs)",
+        "category": "",
+        "image": "logo.jpg",
+        "url": "https://www.aeb.life/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Amedee  is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Cassandre Louis"
+      },
+      {
+        "text": " he makes learning so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Feff Moisset"
+      }
+    ]
+  }
+}
